@@ -22,7 +22,7 @@ To be announced
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 11.09.24  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  |   |
+| 11.09.24  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)  |
 | 18.09.24  | 02  | DropOut, Batch Normalization, Weights Initialization, Pytorch library    |   |
 | 25.09.24  | 03  | Convolutional neural networks. Optimization for neural networks |   |
 | 02.10.24  | 04  | Semantic image segmentation. Object detection  |  |
