@@ -10,6 +10,8 @@ This is an introductory course on neural network models and their application fo
 
 **Zoom for classes:** [link](https://constructor-university.zoom-x.de/j/67032866511?pwd=w6hl3tWoFa0alovM4xSW701J4lvTUf.1)
 
+**Video-recordings of classes:** [link](https://www.youtube.com/playlist?list=PLmdhHuaoylaFWhqfL-tF6Dwdp0fT2TYJL)
+
 **Telegram chat for questions and discussion:** [link](https://t.me/+CoIdXcql7a5mMzNi)
 
 Home assignments are given and graded in the corresponding Teams space. If you don't have access to Teams, please write about this directly to the instructor.
@@ -23,7 +25,7 @@ To be announced
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
 | 11.09.24  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)  |
-| 18.09.24  | 02  | DropOut, Batch Normalization, Weights Initialization, Pytorch library    | [Whiteboard](Materials/DL02.pdf)<br> [PyTorch-intro](Materials/pytorch.pptx)  |
+| 18.09.24  | 02  | DropOut, Batch Normalization, Weights Initialization, Pytorch library    | [Whiteboard](Materials/DL02.pdf)<br> [PyTorch](Materials/pytorch.pptx)<br> [Video](https://youtu.be/If1I9HM3h9o)  |
 | 25.09.24  | 03  | Convolutional neural networks. Optimization for neural networks |   |
 | 02.10.24  | 04  | Semantic image segmentation. Object detection  |  |
 | 09.10.24  | 05  | Single shot object detection, Image style transfer, Recurrent neural networks   |   | 
