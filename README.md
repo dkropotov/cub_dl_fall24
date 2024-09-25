@@ -26,7 +26,7 @@ To be announced
 | :---: | :---: | --- | --- |
 | 11.09.24  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)  |
 | 18.09.24  | 02  | DropOut, Batch Normalization, Weights Initialization, Pytorch library    | [Whiteboard](Materials/DL02.pdf)<br> [PyTorch](Materials/pytorch.pptx)<br> [Video](https://youtu.be/If1I9HM3h9o)  |
-| 25.09.24  | 03  | Convolutional neural networks. Optimization for neural networks |   |
+| 25.09.24  | 03  | Convolutional neural networks. Optimization for neural networks | [Whiteboard](Materials/DL03.pdf)<br> [ConvNets](Materials/convnets.pptx)<br> [Intro SGD](Materials/Intro_SGD.pdf)  |
 | 02.10.24  | 04  | Semantic image segmentation. Object detection  |  |
 | 09.10.24  | 05  | Single shot object detection, Image style transfer, Recurrent neural networks   |   | 
 | 16.10.24  | 06  | Attention mechanism for seq2seq models. Pointer network for solving combinatorial problems. Tokenizers, teacher forcing, beam search, non-differentiable losses |  |
