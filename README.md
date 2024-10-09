@@ -28,7 +28,7 @@ To be announced
 | 18.09.24  | 02  | DropOut, Batch Normalization, Weights Initialization, Pytorch library    | [Whiteboard](Materials/DL02.pdf)<br> [PyTorch](Materials/pytorch.pptx)<br> [Video](https://youtu.be/If1I9HM3h9o)  |
 | 25.09.24  | 03  | Convolutional neural networks. Optimization for neural networks | [Whiteboard](Materials/DL03.pdf)<br> [ConvNets](Materials/convnets.pptx)<br> [Intro SGD](Materials/Intro_SGD.pdf)<br> [Video](https://youtu.be/shzYsnA_hRU)  |
 | 02.10.24  | 04  | Semantic image segmentation, Object detection, Image Style Transfer  | [Presentation](Materials/segmentation_detection_st.pptx)<br> [Video](https://youtu.be/VNwCI-amGcc) |
-| 09.10.24  | 05  | Recurrent neural networks, Attention mechanism for seq2seq models.   | [Presentation](Materials/rnns.pptx)  | 
+| 09.10.24  | 05  | Recurrent neural networks, Attention mechanism for seq2seq models.   | [Whiteboard](Materials/DL05.pdf)<br> [Presentation](Materials/rnns.pptx)<br> [Video](https://youtu.be/NJUDAhydMXk)  | 
 | 16.10.24  | 06  | Tokenizers, teacher forcing, beam search, non-differentiable losses |  |
 | 23.10.24  | 07  | Word embeddings: Word2Vec, Fasttext, GloVe, CoVe, ELMo, BERT. Transformer architecture |   |
 | 30.10.24  | 08  | Energy-based models for text segmentation. Handwritten text recognition problem, CTC loss. Generative Adversarial Networks (GANs) |   |
