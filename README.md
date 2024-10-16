@@ -27,9 +27,9 @@ To be announced
 | 11.09.24  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)  |
 | 18.09.24  | 02  | DropOut, Batch Normalization, Weights Initialization, Pytorch library    | [Whiteboard](Materials/DL02.pdf)<br> [PyTorch](Materials/pytorch.pptx)<br> [Video](https://youtu.be/If1I9HM3h9o)  |
 | 25.09.24  | 03  | Convolutional neural networks. Optimization for neural networks | [Whiteboard](Materials/DL03.pdf)<br> [ConvNets](Materials/convnets.pptx)<br> [Intro SGD](Materials/Intro_SGD.pdf)<br> [Video](https://youtu.be/shzYsnA_hRU)  |
-| 02.10.24  | 04  | Semantic image segmentation, Object detection, Image Style Transfer  | [Presentation](Materials/segmentation_detection_st.pptx)<br> [Video](https://youtu.be/VNwCI-amGcc) |
+| 02.10.24  | 04  | NNs for images: Semantic image segmentation, object detection, image style transfer  | [Presentation](Materials/segmentation_detection_st.pptx)<br> [Video](https://youtu.be/VNwCI-amGcc) |
 | 09.10.24  | 05  | Recurrent neural networks, Attention mechanism for seq2seq models.   | [Whiteboard](Materials/DL05.pdf)<br> [Presentation](Materials/rnns.pptx)<br> [Video](https://youtu.be/NJUDAhydMXk)  | 
-| 16.10.24  | 06  | NNs for texts: Tokenizers, teacher forcing, beam search, CTC-loss, non-differentiable losses. Word embeddings: Word2Vec, Fasttext, GloVe, CoVe, ELMo. | [Whiteboard](Materials/DL06.pdf) |
+| 16.10.24  | 06  | NNs for texts: Tokenizers, teacher forcing, beam search, CTC-loss, non-differentiable losses. Word embeddings: Word2Vec, Fasttext, GloVe, CoVe, ELMo. | [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/WgcwWyLycPo) |
 | 23.10.24  | 07  | Transformer architecture. Generative Adversarial Networks (GANs) |   |
 | 30.10.24  | 08  | Deep Learning for Audio Processing. Mel, log-mel and MFCC spectrograms. Automatic Speech Recognition (ASR) problem, models LAS and Deep Speech 2. Text-To-Speech (TTS) problem, Vocoders Griffin-Lim and WaveNet.  |   |
 | 06.11.24  | 09  | Normalizing Flows, Parallel WaveNet vocoder, HiFi-GAN vocoder. Tacotron 2 and FastSpeech phoneme-to-spectrogram models |   |
