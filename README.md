@@ -18,7 +18,11 @@ Home assignments are given and graded in the corresponding Teams space. If you d
 
 ## Course assessment criteria
 
-To be announced
+Assessment: written examination, Duration: 120 min, Weight: 100%
+
+Bonus: 10% to the exam grade for the total practical assignments grade >= 70%, 5% for the total practical assignments grade in the range [45, 70)%. The bonus is given only if the pure exam grade >= 45%.
+
+The exam will be online on CLMS platform. Exam test variant from previous year: [link](Materials/test_exam.pdf). Exam test variant for this year will be uploaded later.
 
 ## Lectures (preliminary plan)
 
