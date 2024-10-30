@@ -39,7 +39,7 @@ The exam is scheduled on the 18th of December at 12:30 (2 hours).
 | 09.10.24  | 05  | Recurrent neural networks, Attention mechanism for seq2seq models.   | [Whiteboard](Materials/DL05.pdf)<br> [Presentation](Materials/rnns.pptx)<br> [Video](https://youtu.be/NJUDAhydMXk)  | 
 | 16.10.24  | 06  | NNs for texts: Tokenizers, teacher forcing, beam search, CTC-loss, non-differentiable losses. Word embeddings: Word2Vec, Fasttext, GloVe, CoVe, ELMo. | [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/WgcwWyLycPo) |
 | 23.10.24  | 07  | Transformer models. | [Whiteboard](Materials/DL07.pdf)<br> [Presentation](Materials/transformer.pptx)<br> [Video](https://youtu.be/FK3AFos_Zno)  |
-| 30.10.24  | 08  | Generative models: Generative Adversarial Networks (GANs) and Normalizing Flows (NFs) | [Whiteboard](Materials/DL08.pdf)<br> [Tricks for GANS](https://github.com/soumith/ganhacks)<br> |
+| 30.10.24  | 08  | Generative models: Generative Adversarial Networks (GANs) and Normalizing Flows (NFs) | [Whiteboard](Materials/DL08.pdf)<br> [Tricks for GANS](https://github.com/soumith/ganhacks)<br> [Video](https://youtu.be/j-RNZ3BAk_0)|
 | 06.11.24  | 09  | NNs for audio: Fast Fourier Transform, audio spectrograms, models for Automatic Speech Recognition (ASR) and Text-To-Speech synthesis (TTS).  |   |
 | 13.11.24  | 10  | Generative models: Variational Autoencoders, Diffusion models. |   |
 | 20.11.24  | 11  | Introduction to Reinforcement Learning, Q learning, Deep Q Network (DQN)  |   |
