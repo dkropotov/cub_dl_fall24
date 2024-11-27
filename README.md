@@ -43,7 +43,7 @@ The exam is scheduled on the 18th of December at 12:30 (2 hours).
 | 06.11.24  | 09  | NNs for audio: Fourier Transform, audio spectrograms, models for Automatic Speech Recognition (ASR) and Text-To-Speech synthesis (TTS).  | [Whiteboard](Materials/DL09.pdf)<br> [Presentation](Materials/audio_models.pptx)<br> [Video](https://youtu.be/jWXibU8a1Uw)  |
 | 13.11.24  | 10  | Generative models: Variational Autoencoders (VAEs) and Diffusion models (DMs). | [Whiteboard](Materials/DL10.pdf)<br> [Video](https://youtu.be/R6EwSx7oxCM)  |
 | 20.11.24  | 11  | NNs for control problems: Reinforcement Learning, Q learning, Deep Q Network (DQN)  | [Whiteboard](Materials/DL11.pdf)<br> [Video](https://youtu.be/K32bpTCUISM)  |
-| 27.11.24  | 12  | Policy Gradient Approach in Reinforcement Learning, REINFORCE algorithm, Advantage Actor Critic (A2C), RL from Human Feedback | [Whiteboard](Materials/DL12.pdf)  |
+| 27.11.24  | 12  | Policy Gradient Approach in Reinforcement Learning, REINFORCE algorithm, Advantage Actor Critic (A2C), RL from Human Feedback | [Whiteboard](Materials/DL12.pdf)<br> [Video](https://youtu.be/ZiZo3xjCXTA)  |
 | 04.12.24  | 13  | Adversarial Attacks, Visual Language Models
 
 ## Recommended reading
