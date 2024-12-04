@@ -28,7 +28,7 @@ The exam will be online on CLMS platform. Exam test variant from previous year: 
 
 The exam is scheduled on the 18th of December at 12:30 (2 hours).
 
-## Lectures (preliminary plan)
+## Lectures
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
@@ -44,7 +44,6 @@ The exam is scheduled on the 18th of December at 12:30 (2 hours).
 | 13.11.24  | 10  | Generative models: Variational Autoencoders (VAEs) and Diffusion models (DMs). | [Whiteboard](Materials/DL10.pdf)<br> [Video](https://youtu.be/R6EwSx7oxCM)  |
 | 20.11.24  | 11  | NNs for control problems: Reinforcement Learning, Q learning, Deep Q Network (DQN)  | [Whiteboard](Materials/DL11.pdf)<br> [Video](https://youtu.be/K32bpTCUISM)  |
 | 27.11.24  | 12  | Policy Gradient Approach in Reinforcement Learning, REINFORCE algorithm, Advantage Actor Critic (A2C), RL from Human Feedback | [Whiteboard](Materials/DL12.pdf)<br> [Video](https://youtu.be/ZiZo3xjCXTA)  |
-| 04.12.24  | 13  | Adversarial Attacks, Visual Language Models
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
