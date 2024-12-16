@@ -24,7 +24,7 @@ Bonus: 10% to the exam grade for the total practical assignments grade >= 70%, 5
 
 ## Exam
 
-The exam will be online on CLMS platform. Exam test variant: [link](Materials/test_exam.pdf), test variant with answers: [link](Materials/test_exam_with_answers.pdf). 
+The exam will be online on CLMS platform. Exam test variant: [link](Materials/test_exam.pdf), test variant with answers: [link](Materials/test_exam_with_answers.pdf), exam topics: [link](Materials/exam_topics.pdf)
 
 The exam is scheduled on the 18th of December at 12:30 (2 hours).
 
